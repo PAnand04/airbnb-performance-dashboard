@@ -41,7 +41,7 @@ https://mavenanalytics.io/data-playground/airbnb-listings-reviews
 
 ## Dashboard File
 
-[Download Dashboard] 
+Download Dashboard: 
 https://drive.google.com/file/d/1-PAt7MGNE8NpUgD1TtvUIJ6K8TjFW16T/view?usp=drive_link
 
 ## Author
