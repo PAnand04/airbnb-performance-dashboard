@@ -21,15 +21,15 @@ https://mavenanalytics.io/data-playground/airbnb-listings-reviews
 
 ### Overview
 
-![Overview](Screenshots/1.Overview.png)
+![Overview](Screenshots/Overview.png)
 
 ### Ratings
 
-![Ratings](Screenshots/2.Ratings.png)
+![Ratings](Screenshots/Ratings.png)
 
 ### Reviews
 
-![Reviews](Screenshots/3.Reviews.png)
+![Reviews](Screenshots/Reviews.png)
 
 ## Tools Used
 
